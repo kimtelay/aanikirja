@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/logo2.svg'
+import logo from '../img/logo_aanikirja.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
@@ -13,7 +13,7 @@ const Footer = class extends React.Component {
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
           <img
-            src={logo2}
+            src={logo_aanikirja}
             alt="Kaldi"
             style={{ width: '14em', height: '10em' }}
           />
@@ -47,7 +47,7 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Ita yhteyttä
+                        Ota yhteyttä
                       </Link>
                     </li>
                   </ul>
