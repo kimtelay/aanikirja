@@ -1,70 +1,24 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Äänikirja.com
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Parhaat äänikirjat yhdessä paikassa
+subheading: 
 mainpitch:
-  title: Why Kaldi
+  title: Äänikirjat
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Olemme keränneet Suomen parhaat äänikirja-aiheiset linkit yhdelle sivustolle. Verkosta saa äänikirjoja ilmaiseksi tai paljon edullisemmin kuin perinteisestä kaupasta.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Äänikirjat syntyivät alun perin näkövammaisten tarpeisiin, mutta nykyään äänikirjoja myydään enemmän näkövammaiset ovat vähemmistönä ostajien joukossa. Äänikirjoja myydään koko ajan enemmän. Äänikirja on äänimuotoon tallennettu kirja. Äänikirja eroaa kuunnelmasta siten, että äänikirjassa tekstiä ei ole dramatisoitu. Kaunokirjallisuuden ja tietokirjojen lisäksi merkittävä osa kaupallisesti saatavilla olevista äänikirjoista on lasten- ja nuortenkirjoja.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Voit opiskella tai viihdyttää itseäsi missä vain vaivattomasti. MP3-muodossa tavalliselle CD-levylle pakattuna on useita tunteja ääntä. CD-muodossa romaanista tehdyssä äänikirjassa voi kuitenkin olla jopa 20 CD-levyä.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Äänikirjojen ongelma on halutun kohdan löytäminen ja keskeytyneeseen kohtaan palaaminen. Äänikirjat jaetaankin usein useampaan tiedostoon äänikirjassa siirtymisen helpottamiseksi. Kukin tiedosto saattaa olla esimerkiksi muutaman minuutin pituinen, tai tiedostot voidaan jakaa aihekokonaisuuksiin vaikkapa kirjan lukujen perusteella.
+  heading: Parhaat äänikirjat yhdessä paikassa
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    Olemme keränneet Suomen parhaat äänikirja-aiheiset linkit yhdelle sivustolle. Verkosta saa äänikirjoja ilmaiseksi tai paljon edullisemmin kuin perinteisestä kaupasta.
 ---
