@@ -18,6 +18,7 @@ const Footer = class extends React.Component {
             style={{ width: '14em', height: '10em' }}
           />
         </div>
+        {/*
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
             <div className="columns">
@@ -41,7 +42,7 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="navbar-item" to="/blog">
+                      <Link className="navbar-item" to="/kirjat">
                         Viimeisimmät äänikirjat
                       </Link>
                     </li>
@@ -87,6 +88,8 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
+
+        */}
       </footer>
     )
   }
