@@ -3,7 +3,6 @@ templateKey: index-page
 title: Äänikirja.com
 image: /img/home-jumbotron.jpg
 heading: Parhaat äänikirjat yhdessä paikassa
-subheading: 
 mainpitch:
   title: Äänikirjat
   description: >
