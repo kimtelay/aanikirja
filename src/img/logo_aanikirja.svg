@@ -1,5 +1,7 @@
-<svg height="30" width="200">
-  <text x="0" y="15" fill="red">ÄÄNIKIRJA.COM</text>
+<svg viewBox="0 0 109 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+  <style>
+    .style { font: bold 13px sans-serif; }
+  </style>
+  <text class="style" x="0" y="17" fill="red">ÄÄNIKIRJA.COM</text>
   Sorry, your browser does not support inline SVG.
 </svg>
- 
