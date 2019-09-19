@@ -6,7 +6,7 @@ description: >-
   Mauri Kunnaksen pidetyt tarinat kertovat herra Hakkaraisen idyllisestä
   kotikaupungista. 
 featuredpost: true
-featuredimage: /img/meeting-space.png
+featuredimage: /img/kunnas-tassulan-tarinat.jpg
 tags:
   - Lapset
 ---
