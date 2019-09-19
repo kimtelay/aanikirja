@@ -6,7 +6,7 @@ description: >-
   Mielensäpahoittaja joutuu tällä kertaa perehtymään ruuanlaiton maailmaan tässä
   äänikirjassa.
 featuredpost: true
-featuredimage: /img/tutorials.png
+featuredimage: /img/ruskeakastike.jpg
 tags:
   - Kaunokirjallisuus
 ---
