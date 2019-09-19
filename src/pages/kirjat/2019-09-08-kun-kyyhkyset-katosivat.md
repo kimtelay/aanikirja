@@ -1,16 +1,14 @@
 ---
 templateKey: blog-post
 title: Kun kyyhkyset katosivat
-date: 2019-09-08T14:31:42.720Z
-description: >-
-  Kun kyyhkyset katosivat kertoo Virosta, jonka kohtalona on joutua miehittäjien
-  armoille. Tarinassa liikutaan aina 1930-luvulta 1960-luvulle.
+date: 2019-09-19T21:00:00.000Z
+description: 'Kun kyyhkyset katosivat : Sofi Oksanen'
 featuredpost: true
 featuredimage: /img/kun_kyyhkyset_katosivat.jpg
 tags:
   - Kaunokirjallisuus
 ---
-![](/img/blog-index.jpg)
+![](/img/kun_kyyhkyset_katosivat.jpg)
 
 Kun kyyhkyset katosivat on Sofi Oksasen uusin teos, joka on nyt saatavana myös äänikirjana. Se kertoo Virosta, jonka kohtalona on joutua miehittäjien armoille. Tarinassa liikutaan aina 1930-luvulta 1960-luvulle.
 
