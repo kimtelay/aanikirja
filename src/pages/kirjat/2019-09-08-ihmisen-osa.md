@@ -6,7 +6,7 @@ description: >-
   Ihmisen osa on tragikoominen tarina elämän suruista ja iloista. Äänikirjan
   lukijana toimii Ritva Valkama.
 featuredpost: true
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/ihmisen-osa.jpg
 tags:
   - Kaunokirjallisuus
 ---
