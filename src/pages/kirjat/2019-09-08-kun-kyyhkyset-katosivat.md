@@ -6,7 +6,7 @@ description: >-
   Kun kyyhkyset katosivat kertoo Virosta, jonka kohtalona on joutua miehittäjien
   armoille. Tarinassa liikutaan aina 1930-luvulta 1960-luvulle.
 featuredpost: true
-featuredimage: /img/products-full-width.jpg
+featuredimage: /img/kun_kyyhkyset_katosivat.jpg
 tags:
   - Kaunokirjallisuus
 ---
