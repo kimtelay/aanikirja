@@ -2,9 +2,7 @@
 templateKey: blog-post
 title: Ihmisen osa
 date: 2019-09-08T14:41:12.572Z
-description: >-
-  Ihmisen osa on tragikoominen tarina elämän suruista ja iloista. Äänikirjan
-  lukijana toimii Ritva Valkama.
+description: 'Kari Hotakaisen käsikirjoittama äänikirja. '
 featuredpost: true
 featuredimage: /img/ihmisen-osa.jpg
 tags:
