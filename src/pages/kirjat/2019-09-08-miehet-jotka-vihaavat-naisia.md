@@ -3,10 +3,10 @@ templateKey: blog-post
 title: Miehet jotka vihaavat naisia
 date: 2019-09-08T14:34:58.203Z
 description: >-
-  Tämä äänikirja sisältää Stieg Larsonin huikean best seller trilogian
-  ensimmäisen osan.
+  Tämä äänikirja sisältää Stieg Larsonin huikean Millenium trilogian ensimmäisen
+  osan.
 featuredpost: true
-featuredimage: /img/chemex.jpg
+featuredimage: /img/miehet_jotka.jpg
 tags:
   - Kaunokirjallisuus
 ---

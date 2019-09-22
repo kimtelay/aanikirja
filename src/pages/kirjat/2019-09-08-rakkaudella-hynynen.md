@@ -3,11 +3,10 @@ templateKey: blog-post
 title: 'Rakkaudella, Hynynen '
 date: 2019-09-08T15:02:13.097Z
 description: >-
-  Alkuperäinen kirja Rakkaudella, Hynynen on saavuttanut jo kymmenennen
-  painoksen. Tässä äänikirjassa Hynynen lukee bestselleriään omaan
-  persoonalliseen tyylinsä.
+  Rakkaudella, Hynynen äänikirjassa muusikko Jouni Hynynen lukee bestselleriään
+  omaan persoonalliseen tyylinsä.
 featuredpost: true
-featuredimage: /img/products-grid2.jpg
+featuredimage: /img/rakkaudella_hynynen_aanikirja.jpg
 tags:
   - Kaunokirjallisuus
 ---

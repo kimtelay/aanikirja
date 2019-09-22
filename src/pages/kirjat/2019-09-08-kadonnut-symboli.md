@@ -4,7 +4,7 @@ title: Kadonnut symboli
 date: 2019-09-08T14:58:42.807Z
 description: Da Vinci -koodin kirjoittajan Dan Bownin uutuus Kadonnut symboli
 featuredpost: true
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/kadonnut_symboli.jpg
 tags:
   - Kaunokirjallisuus
 ---
