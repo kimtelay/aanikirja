@@ -6,7 +6,7 @@ description: >-
   Linnut äänessä on ollut huikea myyntimenestys. Kirja opettaa tunnistamaan 150
   pohjolan lintulajia ääninäytteiden ja valokuvien avulla. 
 featuredpost: true
-featuredimage: /img/products-full-width.jpg
+featuredimage: /img/opi_englantia.jpg
 tags:
   - Tieto
 ---
