@@ -2,11 +2,12 @@
 templateKey: blog-post
 title: Tyttö joka leikki tulella
 date: 2019-09-08T14:37:03.336Z
-description: >-
-  Tämä äänikirja sisältää Stieg Larsonin huikean best seller trilogian toisen
-  osan: Tyttö joka leikki tulella.
+description: >+
+  Stieg Larsonin huikean Millenium -trilogian toinen osa: Tyttö joka leikki
+  tulella.
+
 featuredpost: true
-featuredimage: /img/products-full-width.jpg
+featuredimage: /img/tytto_joka.jpg
 tags:
   - Kaunokirjallisuus
 ---
