@@ -2,11 +2,12 @@
 templateKey: blog-post
 title: Uhkapelimerkki
 date: 2019-09-08T14:53:52.492Z
-description: >-
-  Uhkapelimerkki on Reijo Mäen romaanin pohjalta toteutettu äänikirja, jossa
-  Jussi Vares rakastuu ja pääsee rikosvyyhdin jäljille. 
+description: >+
+  Reijo Mäen romaanin pohjalta toteutettu äänikirja, jossa Jussi Vares rakastuu
+  ja pääsee rikosvyyhdin jäljille. 
+
 featuredpost: true
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/uhkapelimerkki.jpg
 tags:
   - Kaunokirjallisuus
 ---
