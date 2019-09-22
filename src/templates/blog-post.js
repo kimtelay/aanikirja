@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const BlogPostTemplate = ({
   content,
@@ -13,6 +14,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  image
 }) => {
   const PostContent = contentComponent || Content
 
@@ -22,6 +24,18 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
+          {image ? (
+              <span className="postImage">
+                <PreviewCompatibleImage
+                  imageInfo={{
+                    image: image,
+                    alt: `Kuva kirjalle ${
+                      title
+                      }`,
+                  }}
+                />
+              </span>
+            ) : null}
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
@@ -60,6 +74,7 @@ const BlogPost = ({ data }) => {
   return (
     <Layout>
       <BlogPostTemplate
+        image={post.frontmatter.featuredimage}
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -93,10 +108,17 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "DD.MM.YYYY")
         title
         description
         tags
+        featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 360, quality: 100) {
+            ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
