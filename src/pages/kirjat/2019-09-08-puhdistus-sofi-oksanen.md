@@ -3,10 +3,10 @@ templateKey: blog-post
 title: ' Puhdistus - Sofi Oksanen'
 date: 2019-09-08T15:00:17.336Z
 description: >
-  Sofi Oksasen maailmallakin menestynyt best seller on kirja sukupolvien
-  kohtaaamisesta, vallasta ja Viron historian tapahtumista.
+  Puhdistus on Sofi Oksasen kirjoittama kirja sukupolvien kohtaaamisesta,
+  vallasta ja Viron historian tapahtumista.
 featuredpost: true
-featuredimage: /img/products-grid3.jpg
+featuredimage: /img/puhdistus.jpg
 tags:
   - Kaunokirjallisuus
 ---
