@@ -2,11 +2,9 @@
 templateKey: blog-post
 title: Pilvilinna joka romahti
 date: 2019-09-08T14:39:28.744Z
-description: >-
-  Tämä äänikirja sisältää Stieg Larsonin huikean best seller trilogian kolmannen
-  osan.
+description: Stieg Larsonin huikean best seller trilogian kolmas osa.
 featuredpost: true
-featuredimage: /img/products-full-width.jpg
+featuredimage: /img/pilvilinna.jpg
 tags:
   - Kaunokirjallisuus
 ---
