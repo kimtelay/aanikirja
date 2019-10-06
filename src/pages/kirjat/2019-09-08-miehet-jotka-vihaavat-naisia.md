@@ -2,9 +2,7 @@
 templateKey: blog-post
 title: Miehet jotka vihaavat naisia
 date: 2019-09-08T14:34:58.203Z
-description: >-
-  Tämä äänikirja sisältää Stieg Larsonin huikean Millenium trilogian ensimmäisen
-  osan.
+description: Stieg Larsonin Millenium trilogian ensimmäinen osa äänikirjana.
 featuredpost: true
 featuredimage: /img/miehet_jotka.jpg
 tags:
@@ -12,4 +10,10 @@ tags:
 ---
 Tämä äänikirja sisältää Stieg Larsonin huikean best seller trilogian ensimmäisen osan: Miehet jotka vihaavat naisia. Mikael Blomkvist jäljittää kadonnutta naista ja sotkeutuu samalla tapahtumaketjuun jolla on arvaamattomia seurauksia.
 
-[OSTA >>](http://clk.tradedoubler.com/click?p(345)a(1824918)g(16952822)url(http://cdon.fi/kirjat/larsson%2c_stieg/miehet_jotka_vihaavat_naisia_%2816_cd%29-14286187))
+
+
+Tutustu: 
+
+
+
+<a href="http://clk.tradedoubler.com/click?p(252922)a(1824918)g(22041350)url(https://www.adlibris.com/fi/aanikirja/miehet-jotka-vihaavat-naisia-9789510382950)" title="Miehet jotka vihaavat naisia" target="_blank">Miehet jotka vihaavat naisia</a><img src="http://impgb.tradedoubler.com/imp?type(inv)g(22041350)a(1824918)" />
