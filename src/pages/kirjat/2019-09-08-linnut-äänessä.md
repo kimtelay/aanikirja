@@ -1,15 +1,19 @@
 ---
 templateKey: blog-post
-title: Linnut äänessä
+title: Lintu ja ääni
 date: 2019-09-08T14:56:49.015Z
 description: >-
-  Linnut äänessä on ollut huikea myyntimenestys. Kirja opettaa tunnistamaan 150
-  pohjolan lintulajia ääninäytteiden ja valokuvien avulla. 
+  Lintu ja ääni on ollut huikea myyntimenestys. Kirja opettaa tunnistamaan 70
+  kotimaista lintulajia ääninäytteiden ja valokuvien avulla. 
 featuredpost: true
-featuredimage: /img/opi_englantia.jpg
+featuredimage: /img/linnut-aanessa.jpg
 tags:
   - Tieto
 ---
-Jan Pedersenin ja Lars Svenssonin Linnut äänessä on ollut huikea myyntimenestys. Kirja opettaa tunnistamaan 150 pohjolan lintulajia ääninäytteiden ja valokuvien avulla. Kirjassa on mukana äänilaite, jota painamalla saa kuunneltua laadukkaan ääninäytteen.
+Riku Cajanderin Lintu ja ääni on ollut huikea myyntimenestys. Kirja opettaa tunnistamaan 70 lintulajia ääninäytteiden ja valokuvien avulla. Kaikista lintulajista noin 30–90 sekunnin mittainen ääninäyte, jonka avulla voit opetella tunnistamaan lintuja niiden laulun perusteella.
 
-[Linnut äänessä >](http://clk.tradedoubler.com/click?p(345)a(1824918)g(16952822)url(http://cdon.fi/kirjat/pedersen%2c_jan/linnut_%C3%A4%C3%A4ness%C3%A4-8299780))
+
+
+Tutustu: 
+
+<a href="http://clk.tradedoubler.com/click?p(252922)a(1824918)g(22041350)url(https://www.adlibris.com/fi/kirja/lintu-ja-aani-cd-9789522542694)" title="Lintu ja ääni" target="_blank">Lintu ja ääni</a><img src="http://impgb.tradedoubler.com/imp?type(inv)g(22041350)a(1824918)" />
