@@ -12,8 +12,4 @@ tags:
 ---
 Mielensäpahoittaja joutuu tällä kertaa perehtymään ruuanlaiton maailmaan tässä äänikirjassa. Mielensäpahoittaja ja ruskeakastike on taattua laatuviihdettä. Voi tätä mielipahan määrää!
 
-
-
-[Tuomas Kyrö - Mielensäpahoittaja ja ruskeakastike (äänikirja)](http://www.adlibris.com/fi/tilaukset/?tt=18995_12_231444_&r=%2Ffi%2Faanikirja%2Fmielensapahoittaja-ja-ruskeakastike-9789510390016) 
-
-Katso myös: [Tuomas Kyrö - Mielensäpahoittaja (äänikirja)](http://äänikirja.com/mielensapahoittaja.php)
+[Tuomas Kyrö - Mielensäpahoittaja ja ruskeakastike (äänikirja)](http://www.adlibris.com/fi/tilaukset/?tt=18995_12_231444_&r=%2Ffi%2Faanikirja%2Fmielensapahoittaja-ja-ruskeakastike-9789510390016)
